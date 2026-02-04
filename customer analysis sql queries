@@ -40,7 +40,7 @@ ORDER BY discount_percentage DESC;
 
 --Q7. Segment customers into New, Returning, and Loyal based on their total 
 -- number of previous purchases, and show the count of each segment.
-/* 1. Create the buckets first using a CTE */\
+ 
 
 WITH CustomerSegments AS (
     SELECT 
@@ -53,7 +53,7 @@ WITH CustomerSegments AS (
     FROM customer
 )
 
-/* 2. Count the people in each bucket */
+ 
 SELECT 
     segment, 
     COUNT(customer_id) AS customer_count

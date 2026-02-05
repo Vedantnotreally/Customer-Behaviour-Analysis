@@ -1,6 +1,7 @@
 # Customer-Behaviour-Analysis
 Customer Shopping Behavior Analysis using Python, SQL, and Tableau to explore purchasing patterns and generate business insights. Includes EDA, advanced SQL for segmentation and revenue analysis, and an interactive Tableau dashboard to visualize trends, customers, and product performance.
 
+Dashboard: https://public.tableau.com/app/profile/vedant.sharma7827/viz/CustomerBehaviorDashboard_17702693937200/Dashboard1
 Data Analytics Project – Customer Shopping Behavior Analysis
 Overview
 This project analyzes customer shopping behavior using Python, SQL, and Tableau. It covers exploratory data analysis (EDA), data cleaning, advanced SQL queries, and interactive dashboard creation to identify purchasing patterns, customer segments, and business insights.
